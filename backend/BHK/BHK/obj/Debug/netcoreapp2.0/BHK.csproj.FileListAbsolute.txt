@@ -1,0 +1,11 @@
+D:\Personal staff\BHK\backend\BHK\BHK\bin\Debug\netcoreapp2.0\BHK.deps.json
+D:\Personal staff\BHK\backend\BHK\BHK\bin\Debug\netcoreapp2.0\BHK.runtimeconfig.json
+D:\Personal staff\BHK\backend\BHK\BHK\bin\Debug\netcoreapp2.0\BHK.runtimeconfig.dev.json
+D:\Personal staff\BHK\backend\BHK\BHK\bin\Debug\netcoreapp2.0\BHK.dll
+D:\Personal staff\BHK\backend\BHK\BHK\bin\Debug\netcoreapp2.0\BHK.pdb
+D:\Personal staff\BHK\backend\BHK\BHK\obj\Debug\netcoreapp2.0\BHK.csprojResolveAssemblyReference.cache
+D:\Personal staff\BHK\backend\BHK\BHK\obj\Debug\netcoreapp2.0\BHK.csproj.CoreCompileInputs.cache
+D:\Personal staff\BHK\backend\BHK\BHK\obj\Debug\netcoreapp2.0\BHK.AssemblyInfoInputs.cache
+D:\Personal staff\BHK\backend\BHK\BHK\obj\Debug\netcoreapp2.0\BHK.AssemblyInfo.cs
+D:\Personal staff\BHK\backend\BHK\BHK\obj\Debug\netcoreapp2.0\BHK.dll
+D:\Personal staff\BHK\backend\BHK\BHK\obj\Debug\netcoreapp2.0\BHK.pdb

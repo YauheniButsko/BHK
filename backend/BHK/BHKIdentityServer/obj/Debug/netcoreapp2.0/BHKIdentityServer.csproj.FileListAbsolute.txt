@@ -1,0 +1,11 @@
+D:\Personal staff\BHK\backend\BHK\BHKIdentityServer\bin\Debug\netcoreapp2.0\BHKIdentityServer.deps.json
+D:\Personal staff\BHK\backend\BHK\BHKIdentityServer\bin\Debug\netcoreapp2.0\BHKIdentityServer.runtimeconfig.json
+D:\Personal staff\BHK\backend\BHK\BHKIdentityServer\bin\Debug\netcoreapp2.0\BHKIdentityServer.runtimeconfig.dev.json
+D:\Personal staff\BHK\backend\BHK\BHKIdentityServer\bin\Debug\netcoreapp2.0\BHKIdentityServer.dll
+D:\Personal staff\BHK\backend\BHK\BHKIdentityServer\bin\Debug\netcoreapp2.0\BHKIdentityServer.pdb
+D:\Personal staff\BHK\backend\BHK\BHKIdentityServer\obj\Debug\netcoreapp2.0\BHKIdentityServer.csprojResolveAssemblyReference.cache
+D:\Personal staff\BHK\backend\BHK\BHKIdentityServer\obj\Debug\netcoreapp2.0\BHKIdentityServer.csproj.CoreCompileInputs.cache
+D:\Personal staff\BHK\backend\BHK\BHKIdentityServer\obj\Debug\netcoreapp2.0\BHKIdentityServer.AssemblyInfoInputs.cache
+D:\Personal staff\BHK\backend\BHK\BHKIdentityServer\obj\Debug\netcoreapp2.0\BHKIdentityServer.AssemblyInfo.cs
+D:\Personal staff\BHK\backend\BHK\BHKIdentityServer\obj\Debug\netcoreapp2.0\BHKIdentityServer.dll
+D:\Personal staff\BHK\backend\BHK\BHKIdentityServer\obj\Debug\netcoreapp2.0\BHKIdentityServer.pdb
